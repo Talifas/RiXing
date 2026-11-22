@@ -49,28 +49,6 @@
 
 ---
 
-## 📸 界面预览
-
-| 今日 · 深色 | 今日 · 浅色 | 主题色 · 太阳黄 |
-| :---: | :---: | :---: |
-| ![](docs/screenshots/today.png) | ![](docs/screenshots/today-light.png) | ![](docs/screenshots/today-accent-sun.png) |
-
-| 开场动画 | 欢迎界面（起名） | 今日专注 |
-| :---: | :---: | :---: |
-| ![](docs/screenshots/intro.png) | ![](docs/screenshots/onboard.png) | ![](docs/screenshots/focus.png) |
-
-| 单词训练 | 单词辞典 | 我的 |
-| :---: | :---: | :---: |
-| ![](docs/screenshots/words.png) | ![](docs/screenshots/dict.png) | ![](docs/screenshots/me-user-name.png) |
-
-| 设备互连 | 备份与恢复 | 平板横屏 |
-| :---: | :---: | :---: |
-| ![](docs/screenshots/sync.png) | ![](docs/screenshots/backup.png) | ![](docs/screenshots/tablet-landscape.png) |
-
-> 截图由项目内自动化脚本在真实手机/平板视口（390×844、768×1024、1024×768、844×390）下生成。
-
----
-
 ## 📥 下载安装
 
 | 项目 | 值 |
